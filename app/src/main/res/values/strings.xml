@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="FirstNameText">Primer Nombre :</string>
+    <string name="FirstNameTextField">Ingresar Primer Nombre</string>
+    <string name="SecondNameTextField">Ingresar Segundo Nombre</string>
+    <string name="LastNameText">Apellido :</string>
+    <string name="EmailText">Correo :</string>
+    <string name="UserMailId">Ingresar Correo</string>
+    <string name="submitButton">Registar</string>
+    <string name="List_of_Users_text">Lista de usuarios</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="PasswordText">Contraseña:</string>
+    <string name="PasswordTextFiels">Ingresar Contraseña</string>
+    <string name="UserNameTextView">Nombre de usuario:</string>
+    <string name="UsernameTextField">Ingresa Nombre de usuario</string>
+    <string name="backButton">ATRAS</string>
+    <string name="Login_text">Login</string>
+    <string name="Login_button">Login</string>
+    <string name="signupText">Registrar!</string>
+</resources>
